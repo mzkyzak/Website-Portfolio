@@ -91,7 +91,7 @@ Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, 
 ## 📦 Cara Install
 
 ### 1️⃣ Download Project
-Download source code:
+Download Full source code:
 👉 https://www.mediafire.com/file/sen9lm0xaspvni7/portfolio-mzkyzak.zip/file
 
 Extract file ZIP.
@@ -102,6 +102,7 @@ Pastikan Node.js sudah terinstall:
 node -v
 npm -v
 ```
-### 2️⃣ Cara jalankan 
+### 3️⃣ Cara jalankan 
 
+```
 npm start
