@@ -1,38 +1,64 @@
 # 🌐 Website Portfolio — mzkyzak
 
-Website portfolio pribadi untuk menampilkan **profil, skill, project, sertifikat, dan kontak** dengan tampilan modern, animasi halus, serta desain responsif.
+Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, serta kontak dengan tampilan modern, animasi halus, dan desain responsif.
 
 ---
 
 ## ✨ Fitur Utama
 
-### 🧑 Hero Section (Profil)
-- Menampilkan nama, deskripsi singkat, dan CTA (Contact)
+### 🧑 Hero Section
+- Menampilkan nama & personal branding
+- Typing text animation
+- CTA: Portfolio & Profile
+- Background animasi bintang & efek spotlight mouse
 
-### 🛠 Skills / Tools
-- Daftar teknologi yang dikuasai  
-  *(HTML, CSS, JavaScript, React, Tailwind CSS, dll)*
+### 👤 About Me
+- Foto profil dengan glow effect
+- Informasi lokasi & pendidikan
+- Statistik jumlah project & sertifikat
+- Tombol Download CV
 
-### 💼 Projects
-- Showcase project dengan tampilan modern dan rapi
+### 💼 Portfolio
+- Tab navigasi:
+  - Projects
+  - Certificates
+  - Tech Stack
+  - Design Tools
+  - Operating System
+- Preview project dengan slider gambar
+- Modal detail project
 
 ### 📜 Certificates
-- Menampilkan sertifikat dengan layout konsisten & elegan
+- Tampilan sertifikat rapi & konsisten
+- Animasi saat scroll
 
-### 🔗 Social Media Links
-- LinkedIn  
-- Instagram  
-- GitHub  
-- YouTube  
+### 🛠 Tech & Tools
+- Frontend & tools yang digunakan sehari-hari
+- Icon teknologi interaktif
 
-### ✉️ Contact Form (EmailJS)
-- Pengunjung dapat mengirim pesan langsung ke Gmail
+### 🎨 Design Tools
+- Figma, Unity, Canva, Lightroom, CapCut
 
-### 🎞 Animasi Scroll
-- Menggunakan AOS (Animate On Scroll)
+### 💻 Operating System
+- Windows, Android, Ubuntu, Linux
 
-### ⏳ Preloader
-- Animasi loading saat website pertama kali dibuka
+### 🔗 Social Media
+- LinkedIn
+- WhatsApp
+- Instagram
+- GitHub
+- TikTok
+- YouTube
+
+### ✉️ Contact Form
+- Form kontak aktif
+- Pesan langsung masuk ke Gmail
+- Alert sukses & error (SweetAlert2)
+
+### 🎞 Animasi & UX
+- Framer Motion
+- AOS (Animate On Scroll)
+- Smooth transition & hover effect
 
 ### 📱 Responsive Design
 - Optimal di desktop & mobile
@@ -41,23 +67,24 @@ Website portfolio pribadi untuk menampilkan **profil, skill, project, sertifikat
 
 ## 🧰 Teknologi yang Digunakan
 
-- React JS  
-- Tailwind CSS  
-- EmailJS  
-- AOS (Animate On Scroll)  
-- Lucide Icons  
-- Node.js & npm  
+- React JS
+- Tailwind CSS
+- Framer Motion
+- AOS (Animate On Scroll)
+- Axios
+- SweetAlert2
+- React Icons & Lucide Icons
+- Node.js & npm
 
 ---
 
 ## ✏️ Kustomisasi
 
-Bagian yang bisa kamu ubah dengan mudah:
-
 - Nama & deskripsi → `Home.jsx`
-- Social media link → `SocialLinks.jsx`
-- Project & sertifikat → `Projects.jsx` & `Certificates.jsx`
-- Email penerima → EmailJS Dashboard
+- Social media → `SocialLinks.jsx`
+- Project & sertifikat → `data.js`
+- Email penerima → FormSubmit / EmailJS dashboard
+- CV → ganti file `CV_Taufiq_ikhsan_muzaky.pdf`
 
 ---
 
@@ -65,16 +92,16 @@ Bagian yang bisa kamu ubah dengan mudah:
 
 ### 1️⃣ Download Project
 Download source code:
-https://www.mediafire.com/file/sen9lm0xaspvni7/portfolio-mzkyzak.zip/file  
+👉 https://www.mediafire.com/file/sen9lm0xaspvni7/portfolio-mzkyzak.zip/file
 
-Lalu extract file ZIP.
-
----
+Extract file ZIP.
 
 ### 2️⃣ Install Node.js
-Pastikan Node.js sudah terinstall.
-
-Cek dengan:
+Pastikan Node.js sudah terinstall:
 ```bash
 node -v
-npm -vdisen9lm0xaspvni7/portfolio-mzkyzak.zip/file
+npm -v
+```
+### 2️⃣ Cara jalankan 
+
+npm start
