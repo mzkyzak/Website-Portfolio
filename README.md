@@ -80,11 +80,10 @@ Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, 
 
 ## ✏️ Kustomisasi
 
-- Nama & deskripsi → `Home.jsx`
-- Social media → `SocialLinks.jsx`
+- Home & About & porfolio & contact → `Home.jsx`
 - Project & sertifikat → `data.js`
-- Email penerima → FormSubmit / EmailJS dashboard
-- CV → ganti file `CV_Taufiq_ikhsan_muzaky.pdf`
+- Email penerima → FormSubmit
+- CV → `CV_Taufiq_ikhsan_muzaky.pdf`
 
 ---
 
