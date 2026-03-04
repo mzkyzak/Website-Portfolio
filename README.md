@@ -15,10 +15,11 @@ Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, 
 ### 👤 About Me
 - Foto profil dengan glow effect
 - Informasi lokasi & pendidikan
+- Informasi keterangan tentang Kepribadian 
 - Statistik jumlah project & sertifikat
 - Tombol Download CV
 
-### 💼 Portfolio
+###  Portfolio
 - Tab navigasi:
   - Projects
   - Certificates
@@ -28,7 +29,7 @@ Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, 
 - Preview project dengan slider gambar
 - Modal detail project
 
-### 📜 Certificates
+### 📋 Certificates
 - Tampilan sertifikat rapi & konsisten
 - Animasi saat scroll
 
