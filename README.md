@@ -1,9 +1,13 @@
 # 🌐 Website Portfolio — mzkyzak
 
-Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, serta kontak dengan tampilan modern, animasi halus, dan desain responsif.
+Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, serta kontak dengan tampilan modern, animasi, dan desain responsif.
 
+Proyek ini mungkin masih beberapa bug. Update perbaikan akan di lakukan berikutnya agar performa menjadi lebih optimalkan.
 ---
-
+## Kekurangan??
+- Bug?? Bagian Tab ("khusus di android saja")
+- Bug bagian username mzkyzak dan bagian navbar.
+---  
 ## ✨ Fitur Utama
 
 ### 🧑 Hero Section
