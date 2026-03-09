@@ -2,6 +2,9 @@
 
 Website portfolio pribadi untuk menampilkan profil, skill, project, sertifikat, serta kontak dengan tampilan modern, animasi, dan desain responsif.
 
+Live Web
+https://portfolio-mzkyzak.vercel.app/
+
 Proyek ini mungkin masih beberapa bug. Update perbaikan akan di lakukan berikutnya agar performa menjadi lebih optimalkan.
 ---
 ## Kekurangan??
